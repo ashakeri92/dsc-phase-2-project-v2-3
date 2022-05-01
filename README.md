@@ -67,8 +67,7 @@ The following below are reccomendations for a first time home buyer:
     2) Homes with grades of 4, 5, 6, 7, and 8 have a negative affect on price while 
        homes with grades of 3 12 and 11 have a positive affect on price. 
 
-    3) Every 1 bathroom added, while all other features remain the same, has a negative, 0.0049, decrease 
-       in the price of that home. 
+    3) Every 1 bathroom added, while all other features remain the same, has negative,        0.0049, decrease in the price of that home. 
 
 This analysis still might not fully answer every question a first time home buyer will have since it leaves
 out outliers and location features of homes. In the future we could include more location features such as 
@@ -83,3 +82,10 @@ Please review our full analysis in analysis.ipynb or our [presentation](./DS_Pro
 For any additional questions, please contact Armun Shakeri ashakeri62@gmail.com 
 
 ## Repository Structure
+
+├── data 
+├── images 
+├── analysis.ipynb 
+├── CONTRIBUTING.md                                                          
+├── LICENSE.md                         
+└── README.md   
